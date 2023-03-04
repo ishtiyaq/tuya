@@ -134,3 +134,15 @@ Flashing should be complete.  It takes about 15 seconds for the device to reboot
 Please wait about 30 seconds then look for signs of activity from the firmware you supplied (either watch for AP mode or check if it joined your network).
 Device MAC address: 1c:90:ff:76:83:98
 ```
+
+```
+Zunpulse 10A PRO
+Sep-2022/Jan-23
+1.1.8
+BK7231N
+https://www.amazon.in/dp/B0BM4LMY5J
+
+Pins:
+P6 CF1, P7 CF, P8 led_n, P10 Btn, P24 sel, P26 rel																					
+
+```
